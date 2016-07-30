@@ -1,0 +1,23 @@
+﻿Build started 30/04/2012 15:54:36.
+     1>Project "C:\Users\CosimoDavide\Desktop\Star Wars Project\3D Model\3D Model\3D Model.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\3D Model.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\CosimoDavide\Desktop\Star Wars Project\3D Model\Release\3D Model.exe" /NOLOGO /LIBPATH:"C:\Users\CosimoDavide\Desktop\Star Wars Project\3D Model\Release\lib" OpenAL32.lib alut.lib glut32.lib FreeImage.lib assimp.lib SPARK.lib SPARK_GL.lib /MANIFEST /ManifestFile:"Release\3D Model.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\CosimoDavide\Desktop\Star Wars Project\3D Model\Release\3D Model.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\CosimoDavide\Desktop\Star Wars Project\3D Model\Release\3D Model.lib" /MACHINE:X86 Release\Audio.obj
+         Release\Bullet.obj
+         Release\DeathStar.obj
+         Release\explosion.obj
+         Release\main.obj
+         Release\Modello.obj
+         Release\texture.obj
+         Release\TieFighter.obj
+         Release\Xwings.obj
+     1>main.obj : error LNK2001: unresolved external symbol __imp__MessageBoxA@16
+     1>C:\Users\CosimoDavide\Desktop\Star Wars Project\3D Model\Release\3D Model.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\CosimoDavide\Desktop\Star Wars Project\3D Model\3D Model\3D Model.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.18

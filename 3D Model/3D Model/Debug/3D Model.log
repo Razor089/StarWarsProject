@@ -1,0 +1,11 @@
+﻿Build started 07/09/2013 20:36:09.
+     1>Project "C:\Users\Cosimo Davide\Desktop\Star Wars Project\3D Model\3D Model\3D Model.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(344,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Audio.cpp Bullet.cpp DeathStar.cpp Explosion.cpp main.cpp Modello.cpp Texture.cpp TieFighter.cpp Xwings.cpp
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppCommon.targets(347,5): error : Required file "tracker.exe" is missing.
+     1>Done Building Project "C:\Users\Cosimo Davide\Desktop\Star Wars Project\3D Model\3D Model\3D Model.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.08
