@@ -5,15 +5,22 @@ per l'esame "Fondamenti di Grafica Tridimensionale" all'Università degli Studi 
 
 Il gioco è stato scritto in **C++** e sono state utilizzate librerie quali **OpenGL, OpenAL, Assimp, Spark e FreeImage**.
 
-<<<<<<< HEAD
 La cartella _3D Model_ contiene tutti i file del progetto realizzato con _Visual Studio 2010_. Pertanto per qualsiasi modifica e/o compilazione *è necessario* questa versione di Visual Studio, ho provato con versioni successive e importando il progetto ma così facendo l'IDE di casa Microsoft non riconosceva tutte le dipendenze del progetto.
 
 # Collegamenti esterni #
 
 [OpenGL] (http://www.opengl.org)
+--------------------------------
+>Libreria grafica
+
 [OpenAL] (http://www.openal.org)
+--------------------------------
+>Libreria per l'audio
+
 [Assimp] (http://www.assipm.org)
+--------------------------------
+>Libreria per il caricamento dei modelli 3D
+
 [FreeImage] (http://www.freeimage.sourceforge.net)
-=======
-La cartella _3D Model_ contiene tutti i file del progetto realizzato con _Visual Studio 2010_. Pertanto per qualsiasi modifica e/o compilazione **è necessario** questa versione di Visual Studio, ho provato con versioni successive e importando il progetto ma così facendo l'IDE di casa Microsoft non riconosceva tutte le dipendenze del progetto.
->>>>>>> 42ca958659139648ff07288d4ea01794cc76cd6a
+--------------------------------------------------
+>Libreria per il caricamento delle Texture
