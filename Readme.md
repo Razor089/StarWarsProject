@@ -1,4 +1,4 @@
-#Star Wars: Trench Run
+# Star Wars: Trench Run
 
 *Star Wars: Trench Run* è un gioco scritto in **C++** presentato come progetto finale
 per l'esame "Fondamenti di Grafica Tridimensionale" all'Università degli Studi della Basilicata.
@@ -9,14 +9,14 @@ La cartella _3D Model_ contiene tutti i file del progetto realizzato con _Visual
 
 ## Collegamenti esterni #
 
-###[OpenGL] (http://www.opengl.org) #
+### [OpenGL] (http://www.opengl.org) #
 >Libreria grafica
 
-###[OpenAL] (http://www.openal.org) #
+### [OpenAL] (http://www.openal.org) #
 >Libreria per l'audio
 
-###[Assimp] (http://www.assipm.org) #
+### [Assimp] (http://www.assipm.org) #
 >Libreria per il caricamento dei modelli 3D
 
-###[FreeImage] (http://www.freeimage.sourceforge.net) #
+### [FreeImage] (http://www.freeimage.sourceforge.net) #
 >Libreria per il caricamento delle Texture
